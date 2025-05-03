@@ -1,0 +1,6 @@
+pandas
+pingouin
+statsmodels
+scikit-posthocs
+usaddress
+streamlit
